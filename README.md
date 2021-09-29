@@ -9,3 +9,5 @@ Using multiple queries, we are findng out some of the important facets of this w
 - Most man of the match awards
 - Best fielder, wicket keeper
 - Individual Player Analysis
+- Venue Analysis
+- Toss Analysis
